@@ -4,5 +4,5 @@ Liste de courses
 - pizza
 - gâteau au chocolat
 - glaçons
-- gâteau au chocolat
-- glaçons
+
+
